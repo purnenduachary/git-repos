@@ -1,2 +1,3 @@
 # git-repos
 Hey this repository represents Github for Practice...
+Author Purnendu Acahry
